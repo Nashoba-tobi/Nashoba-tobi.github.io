@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DBeames</title>
+    <link>https://Nashoba-tobi.github.io/posts/</link>
+    <description>Recent content in Posts on DBeames</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 18:45:29 -0600</lastBuildDate>
+    
+	<atom:link href="https://Nashoba-tobi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://Nashoba-tobi.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 03 Jan 2020 14:56:03 -0600</pubDate>
+      
+      <guid>https://Nashoba-tobi.github.io/posts/my-first-post/</guid>
+      <description>This site is really heating up! I can not wait to get more content uploaded. Please check back soon.</description>
+    </item>
+    
+  </channel>
+</rss>
