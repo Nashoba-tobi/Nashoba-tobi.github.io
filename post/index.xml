@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on DBeames</title>
+    <link>https://Nashoba-tobi.github.io/post/</link>
+    <description>Recent content in Videos on DBeames</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://Nashoba-tobi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Video</title>
+      <link>https://Nashoba-tobi.github.io/post/first-video/</link>
+      <pubDate>Tue, 07 Jan 2020 17:38:43 -0600</pubDate>
+      
+      <guid>https://Nashoba-tobi.github.io/post/first-video/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
